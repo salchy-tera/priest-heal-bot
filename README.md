@@ -4,6 +4,7 @@ Just a bot that will spam focus heal/healing immersion to party members.
 commands:
 
   healbot: enable/disable the mod
+  
   healbotre: reload config file
 
 Config file options:
